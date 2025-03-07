@@ -2047,7 +2047,9 @@ a {
         font-size: 2.5rem;
     }
 
-    
+    .ccb-fluid{
+        max-width: 300%;
+    }
 
 }
 
