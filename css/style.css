@@ -2083,3 +2083,15 @@ a {
 .ccb-font{
     font-size: 28px;
 }
+
+.ml-embedded input[type="email"] {
+    background: transparent !important;
+    border: 1px solid #0F447A !important; /* Puedes cambiar el color del borde */
+    color: #0F447A !important; /* Ajusta el color del texto */
+}
+
+.ml-embedded input[type="text"] {
+    background: transparent !important;
+    border: 1px solid #0F447A !important; /* Puedes cambiar el color del borde */
+    color: #0F447A !important; /* Ajusta el color del texto */
+}
